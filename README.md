@@ -14,10 +14,10 @@ A simple starter project for Python projects.
     ```
 
 ## Features
-- [x] Testing setup 
-- [ ] Linting setup
+- Package and module structure
+- Testing
+- Linting
 - [ ] CI setup
-- [ ] Simple directory structure
 
 ## Setting up a virthual environment with mini conda
 1. [Install mini conda](https://docs.conda.io/en/latest/miniconda.html)
@@ -30,13 +30,13 @@ A simple starter project for Python projects.
     conda activate <env_name>
     ```
 
-## Running tests
+## Run tests
 In root of project run:
 ```bash
 pytest
 ```
 
-## Run linting
+## Run linting
 ```bash
 autopep8 --in-place --recursive .
 ```
