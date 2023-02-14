@@ -29,3 +29,9 @@ A simple starter project for Python projects.
     ```bash
     conda activate <env_name>
     ```
+
+## Running tests
+In root of project run:
+```bash
+pytest
+```
