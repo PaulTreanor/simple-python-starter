@@ -35,3 +35,9 @@ In root of project run:
 ```bash
 pytest
 ```
+
+## Run linting
+```bash
+flake8
+```
+
