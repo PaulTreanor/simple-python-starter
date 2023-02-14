@@ -1,10 +1,9 @@
 # Python Starter Project
 A simple starter project for Python projects:
 
-
+- Simple Package/Module structure
 - Testing with [pytest](https://docs.pytest.org/en/stable/)
 - Linting with [autopep8](https://pypi.org/project/autopep8/)
-- Simple Package/Module structure
 - CI with [Github Actions](https://docs.github.com/en/actions/quickstart)
 
 ## Installation
