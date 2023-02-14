@@ -19,7 +19,7 @@ A simple starter project for Python projects:
     python main.py
     ```
 
-## Setting up a virthual environment with mini conda
+## Setting up a virtual environment with mini conda
 1. [Install mini conda](https://docs.conda.io/en/latest/miniconda.html)
 2. Create a virtual environment
     ```bash
