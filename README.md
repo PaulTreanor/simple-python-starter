@@ -1,5 +1,9 @@
 # Python Starter Project
-A simple starter project for Python projects.
+A simple starter project for Python projects:
+    - Testing with pytest
+    - Linting with autopep8
+    - Simple Package/Module structure
+    - CI with Github Actions
 
 ## Installation
 1. Clone the repository
@@ -12,12 +16,6 @@ A simple starter project for Python projects.
     ```bash
     python main.py
     ```
-
-## Features
-- Package and module structure
-- Testing
-- Linting
-- [ ] CI setup
 
 ## Setting up a virthual environment with mini conda
 1. [Install mini conda](https://docs.conda.io/en/latest/miniconda.html)
