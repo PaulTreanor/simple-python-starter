@@ -14,7 +14,7 @@ A simple starter project for Python projects.
     ```
 
 ## Features
-- [ ] Testing setup 
+- [x] Testing setup 
 - [ ] Linting setup
 - [ ] CI setup
 - [ ] Simple directory structure
@@ -38,6 +38,6 @@ pytest
 
 ## Run linting
 ```bash
-flake8
+autopep8 --in-place --recursive .
 ```
 

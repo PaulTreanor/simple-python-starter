@@ -1,5 +1,6 @@
 from src.main import add
 
+
 def test_success():
     assert add(1, 2) == 3
 
